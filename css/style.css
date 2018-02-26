@@ -1,0 +1,19 @@
+.img-circle{
+    width: 200px;
+    height: 200px;
+}
+body{
+  background:url(../img/backg.jpg) no-repeat;
+  background-size:cover;
+}
+.gaya{
+    text-align: center;
+    padding: 20px
+}
+p,h2,h1{
+    color: white;
+    font-family: 'Permanent Marker', cursive;
+}
+a:hover{
+    color:white
+}
